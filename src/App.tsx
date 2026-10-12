@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { ArrowLeft, ArrowRight, BookOpen, Bookmark, ChevronRight, Clock3, Compass, Film, Headphones, Home, LibraryBig, Menu, Pause, Play, Search, ScrollText, Users, VolumeX, X } from 'lucide-react';
 import { ALL_BOOK_1_CHAPTERS, BOOK_METADATA } from './data/bookData';
 import { ALL_MAIN_CHARACTERS, BOOK_IMAGES } from './data/characters';
