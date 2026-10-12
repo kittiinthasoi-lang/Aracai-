@@ -1,0 +1,8 @@
+{
+  "name": "ARACIA • Story Quest",
+  "description": "เว็บแอปอ่านนิยายภาษาไทย มหากาพย์อารยาและอาราเซีย โดย กิตติอุซ พร้อมโหมดผจญภัยภารกิจเก็บเบาะแส และโหมดอ่านอิสระ 157 บท",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
